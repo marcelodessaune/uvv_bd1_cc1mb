@@ -1,5 +1,13 @@
 ## Informações Sobre o Trabalho PSET
 
+Nome: **Marcelo Cunha Lima Nogueira Dessaune**
+
+Professor: **Abrantes Araújo Silva Filho**
+
+Disciplina: **Design e Desenvolvimento de Banco de Dados**
+
+Turma: **CC1Mb**
+
 Este trabalho se trata de um banco de dados voltado a um projeto sobre Lojas da UVV. Os aplicativos usados para a criação do banco de dados foi o **DBeaver** e o **SQL Power Architect**.
 
 Inclui os seguintes arquivos:
