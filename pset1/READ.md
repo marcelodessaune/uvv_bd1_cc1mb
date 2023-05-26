@@ -4,7 +4,7 @@ Nome: **Marcelo Cunha Lima Nogueira Dessaune**
 
 Professor: **Abrantes Araújo Silva Filho**
 
-Disciplina: **Design e Desenvolvimento de Banco de Dados**
+Matéria: **Design e Desenvolvimento de Banco de Dados**
 
 Turma: **CC1Mb**
 
